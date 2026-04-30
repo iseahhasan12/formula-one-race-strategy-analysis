@@ -51,7 +51,7 @@ This chart compares precision, recall, and F1 scores before and after applying h
 
 This learning curve compares training and test accuracy with the size of the training dataset, which helps evaluate model generalization and whether additional data may improve model performance.
 
-### Full Analysis
+## Full Analysis
 
 The complete exploratory data analysis, visualizations, feature engineering, and model training/evaluation are included in this Jupyter Notebook:
 [View Jupyter Notebook](pitstops.ipynb)
