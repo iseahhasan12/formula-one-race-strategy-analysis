@@ -11,18 +11,27 @@ This project analyzes Formula One pit stop and race data to understand how pit s
 - Application of machine learning models (Logistic Regression, Random Forest, Gradient Boosting) to analyze performance factors.
 - Hyperparameter tuning performed on machine learning models to boost performance.
 
+## Tech Stack
+- Python
+- NumPy
+- Pandas
+- scikit-learn
+- Matplotlib
+- Seaborn
+- Jupyter Lab
+
 ## How It Works
 1. Raw race and pit stop data is loaded and cleaned
 2. Raw data visualized for initial insights of the data's structure and distribution
 3. Features are engineered to capture performance metrics
 4. Data is analyzed to identify key trends in pit stop timing and race outcomes
 5. ML models are applied to evaluate key factors of performance, then visualized based on initial results
-6. Hyperparameter tuning is performed on models to boost accuracy and precision
+6. Hyperparameter tuning is performed on models to boost accuracy and precision using GridSearchCV
 7. Final results are visualized to communicate insights
 
 ## Key Insights
 - Pit stop timing has a measurable impact on race performance
-- Faster pit stop durations generally correlate with improved race outcomes
+- Faster pit stop times generally correlate with improved race outcomes
 - Strategic timing plays a critical role in performance, not just speed alone
 
 ## Key Visualizations
@@ -30,11 +39,17 @@ This project analyzes Formula One pit stop and race data to understand how pit s
 ### Pit Stop Times By Constructor
 ![Pit Stop Boxplot](images/pit_times.png)
 
+This boxplot compares pit stop time distributions across different constructors, showing differences in median pit time, variability, and consistency between teams.
+
 ### Model Performance Before and After Tuning
 ![Model Performance](images/model_performance.png)
 
+This chart compares precision, recall, and F1 scores before and after applying hyperparameter tuning across the three models used for model training: Logistic Regression, Random Forest, and Gradient Boosting.
+
 ### Learning Curve
 ![Learning Curve](images/learning_curve.png)
+
+This learning curve compares training and test accuracy with the size of the training dataset, which helps evaluate model generalization and whether additional data may improve model performance.
 
 ### Full Analysis
 
