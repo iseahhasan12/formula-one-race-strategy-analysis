@@ -32,3 +32,8 @@ This project demonstrates how data science and machine learning can be used to a
 - Incorporate additional race factors (tire compound, weather, track conditions)
 - Use more advanced ML models for predictive strategy optimization
 - Expand dataset to include multiple seasons for deeper analysis
+
+## Key Visualizations
+
+### Pit Stop Times By Constructor
+![Pit Stop Boxplot](images/pit_times)
