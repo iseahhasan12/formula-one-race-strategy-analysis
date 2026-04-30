@@ -47,4 +47,4 @@ This project demonstrates how data science and machine learning can be used to a
 ### Full Analysis
 
 The complete exploratory data analysis, visualizations, feature engineering, model training/evaluation are included in this jupyter notebook:
-![View Jupyter Notebook](pitstops.ipynb)
+[View Jupyter Notebook](pitstops.ipynb)
