@@ -40,3 +40,6 @@ This project demonstrates how data science and machine learning can be used to a
 
 ### Model Performance Before and After Tuning
 ![Model Performance](images/model_performance)
+
+### Learning Curve
+![Learning Curve](images/learning_curve)
