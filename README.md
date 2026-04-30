@@ -37,3 +37,6 @@ This project demonstrates how data science and machine learning can be used to a
 
 ### Pit Stop Times By Constructor
 ![Pit Stop Boxplot](images/pit_times)
+
+### Model Performance Before and After Tuning
+![Model Performance](images/model_performance)
