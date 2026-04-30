@@ -43,3 +43,8 @@ This project demonstrates how data science and machine learning can be used to a
 
 ### Learning Curve
 ![Learning Curve](images/learning_curve)
+
+### Full Analysis
+
+The complete exploratory data analysis, visualizations, feature engineering, model traning/evaluation are included in this jupyter notebook:
+![View Jupyter Notebook](pitstops.ipynb)
