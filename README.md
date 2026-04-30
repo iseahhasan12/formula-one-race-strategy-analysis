@@ -53,7 +53,7 @@ This learning curve compares training and test accuracy with the size of the tra
 
 ### Full Analysis
 
-The complete exploratory data analysis, visualizations, feature engineering, model training/evaluation are included in this Jupyter Notebook:
+The complete exploratory data analysis, visualizations, feature engineering, and model training/evaluation are included in this Jupyter Notebook:
 [View Jupyter Notebook](pitstops.ipynb)
 
 ## Why This Project Matters
