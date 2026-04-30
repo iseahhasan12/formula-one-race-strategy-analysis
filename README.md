@@ -36,15 +36,15 @@ This project demonstrates how data science and machine learning can be used to a
 ## Key Visualizations
 
 ### Pit Stop Times By Constructor
-![Pit Stop Boxplot](images/pit_times)
+![Pit Stop Boxplot](images/pit_times.png)
 
 ### Model Performance Before and After Tuning
-![Model Performance](images/model_performance)
+![Model Performance](images/model_performance.png)
 
 ### Learning Curve
-![Learning Curve](images/learning_curve)
+![Learning Curve](images/learning_curve.png)
 
 ### Full Analysis
 
-The complete exploratory data analysis, visualizations, feature engineering, model traning/evaluation are included in this jupyter notebook:
+The complete exploratory data analysis, visualizations, feature engineering, model training/evaluation are included in this jupyter notebook:
 ![View Jupyter Notebook](pitstops.ipynb)
